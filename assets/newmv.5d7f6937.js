@@ -1,0 +1,1 @@
+import e from"./mv.55e4a667.js";import{d as o,z as r,o as t}from"./index.7d8ab6d7.js";import"./el-skeleton-item.798d7681.js";const s=o({__name:"newmv",setup(n){return(a,m)=>(t(),r(e))}});export{s as default};
